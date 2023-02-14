@@ -1,0 +1,11 @@
+{
+  "name": "dragon-hunters-tets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx ts-node ./src/index.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
